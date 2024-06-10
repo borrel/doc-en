@@ -35,7 +35,7 @@
     </oointerface>
 
     <oointerface>
-     <modifier>extends</modifier>
+     <modifier>implements</modifier>
      <interfacename>Stringable</interfacename>
     </oointerface>
 
